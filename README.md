@@ -19,9 +19,9 @@ Please note that due to restrictions, the code for this project cannot be shared
 - **2nd Place:** CyberClimb secured the 2nd place in the ImmutableX x EasyA hackathon in February 2023, showcasing our team's dedication, creativity, and technical skills.
 
 ## Team Members (team L.A.C.K):
-- Chandru Suresh Nair
-- Arraf Rahman
 - Luca Boccardo
+- Arraf Rahman
+- Chandru Suresh Nair
 - Karim Mousa
 
 ## Game link
