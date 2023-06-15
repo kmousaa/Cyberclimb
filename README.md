@@ -1,6 +1,6 @@
 # CyberClimb
 
-Futuristic cyberpunk-themed platformer game where every level is won as an NFT.
+<img width="948" alt="image" src="https://github.com/kmousaa/Cyberclimb/assets/99260175/9cab4ea3-96aa-4a09-89e2-24df05b2f257">
 
 ## Description
 
