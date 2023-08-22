@@ -29,6 +29,5 @@ Play the game here: https://chandymande.itch.io/cyberclimb
 
 ## Tweet by EasyA
 
-> L.A.C.K. is a game that allows players to climb their ways to the top of the hill, running away from mobs that want to kill you 🔪🩸 Level increases are shown with #NFTs that can be traded! 💵 [Tweet Link](https://twitter.com/easya_app/status/1624799358934831104)
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🥈 In Cyber Climb, players climb their way to the top of a mountain, fighting and running away from mobs trying to kill them! 👻 The team used Unity to design their game and the <a href="https://twitter.com/hashtag/IMX?src=hash&amp;ref_src=twsrc%5Etfw">#IMX</a> SDK - way to go! 🙌 <a href="https://t.co/LfzOvloCXP">pic.twitter.com/LfzOvloCXP</a></p>&mdash; EasyA 🌟 (@easya_app) <a href="https://twitter.com/easya_app/status/1625134491911036928?ref_src=twsrc%5Etfw">February 13, 2023</a></blockquote> 
 
